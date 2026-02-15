@@ -695,7 +695,7 @@ pnpm install
 ## 📞 Support
 
 - 💬 Team Chat: Slack/Discord
-- 📧 Email: dev@smartparking.np
+- 📧 Email: kuikelaashutosh@gmail.com
 - 🐛 Issues: GitHub Issues
 - 📖 Docs: Internal Wiki
 
