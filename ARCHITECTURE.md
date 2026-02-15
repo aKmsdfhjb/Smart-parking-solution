@@ -678,7 +678,8 @@ MIT License - Free for commercial and personal use.
 
 For architectural questions or contributions:
 - GitHub Issues
-- Email: support@smartparking.np (example)
+- Email: kuikelaashutosh@gmail.com
+  
 
 ---
 
