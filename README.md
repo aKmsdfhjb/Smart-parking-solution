@@ -369,19 +369,7 @@ Contributions are welcome! Please follow these steps:
 
 MIT License - see [LICENSE](LICENSE) file for details
 
-## 👥 Team
 
-- **Lead Developer** - Full-stack architect
-- **UI/UX Designer** - Interface design
-- **Backend Engineer** - Firebase & Cloud Functions
-- **QA Engineer** - Testing & quality assurance
-
-## 📞 Support
-
-- 📧 Email: support@smartparking.np
-- 💬 Discord: [Join our community](https://discord.gg/smartparking)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/smart-parking-nepal/issues)
-- 📖 Docs: [Full Documentation](https://docs.smartparking.np)
 
 ## 🗺️ Roadmap
 
@@ -407,37 +395,6 @@ MIT License - see [LICENSE](LICENSE) file for details
 - Partner network
 - Advanced booking algorithms
 - Blockchain payments
-
-## 🌟 Acknowledgments
-
-- Firebase team for amazing backend infrastructure
-- Google Maps for location services
-- eSewa & Khalti for payment solutions
-- Open source community for amazing libraries
-
-## 📸 Screenshots
-
-### Map View
-![Map Screen](https://via.placeholder.com/800x400?text=Map+View)
-
-### Booking Screen
-![Booking](https://via.placeholder.com/800x400?text=Booking+Screen)
-
-### Payment
-![Payment](https://via.placeholder.com/800x400?text=Payment+Screen)
-
-### Owner Dashboard
-![Dashboard](https://via.placeholder.com/800x400?text=Owner+Dashboard)
-
-## 🔗 Links
-
-- 🌐 **Website**: https://smartparking.np
-- 📱 **App Store**: Coming soon
-- 🤖 **Google Play**: Coming soon
-- 📺 **Demo Video**: https://youtube.com/smartparking
-- 📊 **Status Page**: https://status.smartparking.np
-
----
 
 **Made with ❤️ in Nepal**
 
