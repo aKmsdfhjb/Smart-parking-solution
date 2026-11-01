@@ -427,3 +427,23 @@ This is a production-ready template. Before deploying:
 **Version**: 1.0.0  
 **Last Updated**: February 15, 2026  
 **Minimum Requirements**: Node.js 18+, Modern browser with ES6 support
+
+
+## Architecture flow
+
+~~~mermaid
+flowchart TD
+ A[React + TypeScript PWA] --> B[Authentication context]
+ A --> C[Map and location services]
+ A --> D[Booking and history screens]
+ B --> E[Firebase Authentication]
+ C --> F[Google Maps API]
+ D --> G[Firestore]
+ D --> H[Payment provider integration]
+ D --> I[QR entry validation]
+ G --> J[Owner dashboard and user history]
+~~~
+
+## GitHub Pages deployment
+
+A deployment workflow builds the Vite application and publishes the dist directory. The Vite base path and React Router basename are configured for the repository subpath. Firebase, Maps and payment integrations still require valid project configuration; a successful static build does not prove that external services or payment flows are configured.
