@@ -23,3 +23,5 @@ This wiki describes the repository as it exists today. A working static page doe
 ## Documentation maintenance
 
 Update this page when the implementation, dependencies, model artifacts or deployment architecture changes. Keep credentials, private user data and unlicensed datasets out of the repository.
+
+- [Video production brief](https://github.com/aKmsdfhjb/Smart-parking-solution/blob/main/docs/video/production-brief.md)
