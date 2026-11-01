@@ -13,7 +13,7 @@ Configure Firebase, Google Maps and payment-provider settings using the project 
 ## Key repository references
 
 - [Source repository](https://github.com/aKmsdfhjb/Smart-parking-solution)
-- [README](../../README.md)
+- [README](https://github.com/aKmsdfhjb/Smart-parking-solution#readme)
 - [Architecture](Architecture.md)
 
 ## Scope and limitations
