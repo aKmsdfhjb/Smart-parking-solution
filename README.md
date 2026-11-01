@@ -30,26 +30,22 @@ A production-ready Progressive Web Application for finding, booking, and managin
 - ⚡ **Fast** - Optimized performance and caching
 - 📲 **Responsive** - Works on all devices
 
-## 🏗️ Architecture
+## Architecture
 
-```
-┌──────────────────────────────────────┐
-│         React PWA (Client)           │
-│  - Screens  - Components - Contexts  │
-└────────────┬─────────────────────────┘
-             │
-    ┌────────┴────────┐
-    │                 │
-┌───▼─────┐    ┌─────▼────┐
-│ Firebase │    │  Google  │
-│          │    │   Maps   │
-│ • Auth   │    └──────────┘
-│ • DB     │    ┌──────────┐
-│ • Funcs  │    │ Payments │
-└──────────┘    │          │
-                │ • eSewa  │
-                │ • Khalti │
-                └──────────┘
+```mermaid
+flowchart TD
+ A[User or parking owner] --> B[React PWA]
+ B --> C[Authentication]
+ B --> D[Map and parking search]
+ D --> E[Parking availability]
+ E --> F[Booking and price calculation]
+ F --> G[Payment provider]
+ G --> H[Booking confirmation]
+ H --> I[QR entry validation]
+ B --> J[Owner dashboard and analytics]
+ C --> K[Firebase services]
+ E --> K
+ H --> K
 ```
 
 ## 🛠️ Tech Stack
