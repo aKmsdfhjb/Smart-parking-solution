@@ -447,3 +447,11 @@ flowchart TD
 ## GitHub Pages deployment
 
 A deployment workflow builds the Vite application and publishes the dist directory. The Vite base path and React Router basename are configured for the repository subpath. Firebase, Maps and payment integrations still require valid project configuration; a successful static build does not prove that external services or payment flows are configured.
+
+
+## Project Wiki
+
+- [Wiki home](docs/wiki/Home.md)
+- [Architecture and deployment](docs/wiki/Architecture.md)
+
+The repository keeps a version-controlled wiki source under `docs/wiki/`.
