@@ -4,9 +4,9 @@
 ![React](https://img.shields.io/badge/React-18.3-61dafb)
 ![Firebase](https://img.shields.io/badge/Firebase-Latest-orange)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
-![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
+![Status](https://img.shields.io/badge/Status-Integration%20Validation-c34b2e)
 
-A production-ready Progressive Web Application for finding, booking, and managing parking spots in Nepal. Built with React, Firebase, and modern web technologies.
+A Progressive Web Application project for discovering, booking, and managing parking spots in Nepal. Built with React, Firebase, and modern web technologies; production readiness depends on completing and validating the external service integrations.
 
 ## 🚀 Features
 
